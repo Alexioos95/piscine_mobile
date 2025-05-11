@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "373127603824",
+    "project_id": "mobile-cb50f",
+    "storage_bucket": "mobile-cb50f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373127603824:android:28253d25127e60027236b5",
+        "android_client_info": {
+          "package_name": "com.apayen.diary00"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373127603824-35v7kc49rv792ffvbgikhs3jt823dkt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgGqXnsB_PHe1EdzYCcMnrF65MaHkbDKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373127603824-35v7kc49rv792ffvbgikhs3jt823dkt9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373127603824-5h9rk9jhmb4lvkshpaqchbck3dsi7lei.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apayen.diary00"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

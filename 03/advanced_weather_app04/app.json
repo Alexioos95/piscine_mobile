@@ -1,0 +1,33 @@
+{
+	"expo": {
+	  "name": "advanced_weather_app04",
+	  "slug": "advanced_weather_app04",
+	  "version": "1.0.0",
+	  "orientation": "portrait",
+	  "icon": "./assets/icon.png",
+	  "userInterfaceStyle": "light",
+	  "splash": {
+		"image": "./assets/splash.png",
+		"resizeMode": "contain",
+		"backgroundColor": "#ffffff"
+	  },
+	  "ios": {
+		"supportsTablet": true
+	  },
+	  "android": {
+		"adaptiveIcon": {
+		  "foregroundImage": "./assets/adaptive-icon.png",
+		  "backgroundColor": "#ffffff"
+		},
+		"package": "com.alexioos95.advanced_weather_app04"
+	  },
+	  "web": {
+		"favicon": "./assets/favicon.png"
+	  },
+	  "extra": {
+		"eas": {
+		  "projectId": "a12095b4-a189-49b1-8614-d6d9a6a44662"
+		}
+	  }
+	}
+  }

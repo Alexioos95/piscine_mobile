@@ -1,0 +1,43 @@
+{
+	"expo": {
+	  "name": "advanced_diary_app00",
+	  "slug": "advanced_diary_app00",
+	  "version": "1.0.0",
+	  "orientation": "portrait",
+	  "icon": "./assets/icon.png",
+	  "scheme": "devdiary",
+	  "userInterfaceStyle": "light",
+	  "splash": {
+		"image": "./assets/splash.png",
+		"resizeMode": "contain",
+		"backgroundColor": "#ffffff"
+	  },
+	  "ios": {
+		"googleServicesFile": "./GoogleService-Info.plist",
+		"infoPlist": {
+			"CFBundleURLTypes": [
+				{
+					"CFBundleURLSchemes": ["com.googleusercontent.apps.373127603824-5h9rk9jhmb4lvkshpaqchbck3dsi7lei"]
+				}
+			]
+		},
+		"supportsTablet": true
+	  },
+	  "android": {
+		"googleServicesFile": "./google-services.json",
+		"adaptiveIcon": {
+		  "foregroundImage": "./assets/adaptive-icon.png",
+		  "backgroundColor": "#ffffff"
+		},
+		"package": "com.alexioos95.advanced_diary_app00"
+	  },
+	  "web": {
+		"favicon": "./assets/favicon.png"
+	  },
+	  "extra": {
+		"eas": {
+		  "projectId": "a12095b4-a189-49b1-8614-d6d9a6a44662"
+		}
+	  }
+	}
+  }
