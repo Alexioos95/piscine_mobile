@@ -1,6 +1,11 @@
 > [!IMPORTANT]  
-> Les moyens mis à notre disposition pour le développement mobile à l'école étant extrèmement limité, j'ai dû me débrouiller avec Metro, en exportation web. Des bugs et crashs sont donc très fortement probable en cas de compilation.
+> Les moyens mis à notre disposition pour le développement mobile à l'école étant extrèmement limités, j'ai dû me débrouiller avec Metro, en exportation web. Des bugs et crashs sont donc très fortement probables en cas de compilation.
 
-Petites applications pour découvrir le développement mobile, en React Native.
+Groupement de petits exercices, afin de découvrir le développement mobile, en React Native, à travers de simples applications.
 
-Le premier module est une calculatrice, les trois suivants une application météo avec l'API d'Open-Meteo, et les deux derniers un journal intime avec database Firebase et AWS.
+0. Bases d'applications mobiles - Boutons et calculatrice
+1. Structure et logique - App météo
+2. API et données - App météo
+3. Design - App météo
+4. Authentification et base de données - Journal intime
+5. Gestion de données et affichage - Journal intime
