@@ -25,4 +25,4 @@ Groupement de petits exercices, afin de découvrir le développement mobile, en 
 > [!NOTE]
 > Requires Node.js 20 and an '.env' file
 
-<img src="https://i.imgur.com/ltsYLtA.gif" alt="Journal intime piscine_mobile_05"> <img src="https://i.imgur.com/yK4YqI9.gif" alt="Journal intime piscine_mobile_05 seconde image"> <img src="https://i.imgur.com/lwCxOtP.gif" alt="Journal intime piscine_mobile_05 troisième image"> <img src="https://i.imgur.com/k9BlqMj.gif" alt="Journal intime piscine_mobile_05 quatrième image">
+<img src="https://i.imgur.com/ltsYLtA.gif" alt="Journal intime piscine_mobile_05" width="250"> <img src="https://i.imgur.com/yK4YqI9.gif" alt="Journal intime piscine_mobile_05 seconde image" width="250"> <img src="https://i.imgur.com/lwCxOtP.gif" alt="Journal intime piscine_mobile_05 troisième image" width="250"> <img src="https://i.imgur.com/k9BlqMj.gif" alt="Journal intime piscine_mobile_05 quatrième image" width="250">
