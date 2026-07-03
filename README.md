@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> Les moyens mis à notre disposition pour le développement mobile à l'école étant extrèmement limités, j'ai dû me débrouiller avec Expo Snack en exportation web, puis Metro avec mon propre appareil selon les disponibilités. Des bugs et crashs sont donc très fortement probables en cas de compilation.
+> Les moyens mis à notre disposition pour le développement mobile à l'école étant extrèmement limités, j'ai dû me débrouiller avec Expo Snack et Metro en exportation web. Des bugs et crashs sont donc très fortement probables en cas de compilation.
 
 Groupement de petits exercices, afin de découvrir le développement mobile, en React Native, à travers de simples applications.
 
