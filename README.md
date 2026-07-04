@@ -17,12 +17,13 @@ Groupement de petits exercices, afin de découvrir le développement mobile, en 
 
 ### Météo ([Voir sur Expo Snack](https://snack.expo.dev/@alexioos95/meteo---piscine_mobile_03))  
 > [!NOTE]
-> 'react-native-chart-kit' does not seems to work correctly on Snack
+> 'react-native-chart-kit' does not work correctly on Expo Snack
 
 <img src="https://i.imgur.com/lWPjwmX.gif" alt="Météo piscine_mobile_03"> <img src="https://i.imgur.com/hbaA7e0.gif" alt="Météo piscine_mobile_03 seconde image">
 
 ### Journal intime
 > [!NOTE]
-> Requires Node.js 20 and an '.env' file
+> Requires Node.js 20 and a '.env' file
 
-<img src="https://i.imgur.com/ltsYLtA.gif" alt="Journal intime piscine_mobile_05" width="250"> <img src="https://i.imgur.com/yK4YqI9.gif" alt="Journal intime piscine_mobile_05 seconde image" width="250"> <img src="https://i.imgur.com/lwCxOtP.gif" alt="Journal intime piscine_mobile_05 troisième image" width="250"> <img src="https://i.imgur.com/k9BlqMj.gif" alt="Journal intime piscine_mobile_05 quatrième image" width="250">
+<img src="https://i.imgur.com/ltsYLtA.gif" alt="Journal intime piscine_mobile_05" width="250"> <img src="https://i.imgur.com/yK4YqI9.gif" alt="Journal intime piscine_mobile_05 seconde image" width="250">  
+<img src="https://i.imgur.com/lwCxOtP.gif" alt="Journal intime piscine_mobile_05 troisième image" width="250"> <img src="https://i.imgur.com/k9BlqMj.gif" alt="Journal intime piscine_mobile_05 quatrième image" width="250">
